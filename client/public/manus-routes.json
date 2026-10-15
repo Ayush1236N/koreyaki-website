@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Home"},{"path":"/menu","title":"Menu"},{"path":"/cart","title":"Cart"},{"path":"/dish/:id","title":"Dish configurator"},{"path":"/admin","title":"Admin"}]}
